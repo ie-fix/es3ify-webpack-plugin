@@ -1,0 +1,46 @@
+{
+  "author": {
+    "name": "bryce",
+    "email": "brycezero@163.com",
+    "url": "https://github.com/brycehq"
+  },
+  "bugs": {
+    "url": "https://github.com/brycehq/es3ify-webpack-plugin/issues"
+  },
+  "dependencies": {
+    "es3ify": "^0.2.2",
+    "source-map": "^0.5.6",
+    "webpack-sources": "^0.1.2"
+  },
+  "description": "a webpack plugin to es3ify your code for old versions of ie, such as ie8.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "beea52c8b6f618768e49dda297102b8ce207ee3c",
+    "tarball": "https://registry.npmjs.org/es3ify-webpack-plugin-fix/-/es3ify-webpack-plugin-fix-0.0.0.tgz"
+  },
+  "homepage": "https://github.com/brycehq/es3ify-webpack-plugin",
+  "keywords": [
+    "webpack",
+    "plugin",
+    "es3ify",
+    "ie8"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "brycehq",
+      "email": "brycezero@163.com"
+    }
+  ],
+  "name": "es3ify-webpack-plugin",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brycehq/es3ify-webpack-plugin.git"
+  },
+  "scripts": {},
+  "version": "0.0.0"
+}
