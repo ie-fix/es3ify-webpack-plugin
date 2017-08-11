@@ -1,5 +1,6 @@
 es3ify-webpack-plugin
 =====================
+Fork from https://github.com/BryceHQ/es3ify-webpack-plugin
 
 A simple webpack plugin to es3ify your code for old versions of ie, such as ie8.
 
